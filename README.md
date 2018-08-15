@@ -11,4 +11,6 @@ Note: Backend is required to be running locally, to fetch data before starting f
 
 **Further Improvement**
 - USE Redux
+- Add form vaildation 
+
 
